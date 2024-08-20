@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Justin Nguyen
-    tagline: MS Biostatistics student working on AI for cancer
+    tagline: MS Biostatistics student assisting in cancer research
     avatar: profile.jpeg 
 
     # Sidebar links
@@ -63,9 +63,9 @@ sidebar:
 career-profile:
     title: Bio 
     summary: |
-      Hi! I am a second year master's student studying biostatistics at UTHealth and a [research assistant](https://odin.mdacc.tmc.edu/~akorkut/#/home) at MD Anderson Cancer center. My primary research mentor is [Dr. Anil Korkut](https://faculty.mdanderson.org/profiles/anil_korkut.html) of the Department of Bioinformatics and Computational Biology. Along with Dr. Korkut, postdoc Dr. Elisa Kong is also my mentor whom I have been assisting research on TP53-mutated and -wildtype cancers in support of the TP53 Moon Shot group. 
+      Hi! I am a second-year master's student studying biostatistics at UTHealth and a [research assistant](https://odin.mdacc.tmc.edu/~akorkut/#/home) at MD Anderson Cancer Center. My primary research mentor is [Dr. Anil Korkut](https://faculty.mdanderson.org/profiles/anil_korkut.html) of the Department of Bioinformatics and Computational Biology. Along with Dr. Korkut, postdoc Dr. Elisa Kong also mentors me as I have been working with her on TP53-mutated and -wildtype cancers in support of the TP53 Moon Shot group. 
       
-      Initially, I completed a bachelor's in kinesiology with the idea of becoming a clinician. Upon realizing my strong interests in the quantiative side of basic science research, I pivoted to biostatistics. I am hoping to pursue a doctorate in biostatistics following my master's.
+      Initially, I completed a bachelor's in kinesiology with the idea of becoming a clinician. Upon realizing my strong interests in the quantiative side of basic science research, I pivoted to biostatistics. I have been involved into two summer research programs with a biostatistics focus since: Summer Institute in Biostatistics and Data Science at The University of Texas Medical Branch and Cancer Prevention Research Training Program at MD Anderson. I am hoping to pursue a doctorate in biostatistics following my master's.
 experiences:
     - role: Research Assistant (Bioinformatics and Computational Biology)
       time: 2024 - Present
