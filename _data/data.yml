@@ -68,28 +68,19 @@ career-profile:
       Initially, I completed a bachelor's in kinesiology with the idea of becoming a clinician. Upon realizing my strong interests in the quantiative side of basic science research, I pivoted to biostatistics. I am hoping to pursue a doctorate in biostatistics following my master's.
 experiences:
     - role: Research Assistant (Bioinformatics and Computational Biology)
-      time: 2024 - Present
+      time: November 2024 - Present
       company: MD Anderson Cancer Center
       details: |
     - role: Research Assistant (Neuroscience and Experimental Therapeutics)
-      time: 2020 - 2022
+      time: January 2020 - August 2022
       company: Texas A&M Health Science Center
-      details: |
-internships:
-    - role: Research Intern (Cancer Prevention Research Training Program)
-      time: June 2024 - August 2024
-      company: MD Anderson Cancer Center
-      details: |
-    - role: Research Intern (Summer Institute in Biostatistics and Data Science)
-      time: June 2023 - July 2024 
-      company: The University of Texas Medical Branch
       details: |
 education:
     - degree: MS, Biostatistics
       university: The University of Texas Health Science Center at Houston
-      time: Expected 2025
+      time: Expected May 2025
       details: |
     - degree: BS, Kinesiology
       university: Texas A&M University
-      time: 2022
+      time: August 2022
       details: |
