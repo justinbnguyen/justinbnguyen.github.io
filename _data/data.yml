@@ -75,6 +75,15 @@ experiences:
       time: 2020 - 2022
       company: Texas A&M Health Science Center
       details: |
+internships:
+    - role: Research Intern (Cancer Prevention Research Training Program)
+      time: June 2024 - August 2024
+      company: MD Anderson Cancer Center
+      details: |
+    - role: Research Intern (Summer Institute in Biostatistics and Data Science)
+      time: June 2023 - July 2024 
+      company: The University of Texas Medical Branch
+      details: |
 education:
     - degree: MS, Biostatistics
       university: The University of Texas Health Science Center at Houston
